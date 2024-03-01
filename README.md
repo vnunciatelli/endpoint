@@ -1,1 +1,1 @@
-# endpoint
+Neste exemplo, o endpoint é responsável por receber dados de um novo usuário, validar esses dados e, em seguida, realizar a criação desse usuário em um sistema simulado. A resposta inclui um código HTTP indicando o status da operação e, em caso de sucesso, fornece informações adicionais, como o ID do usuário recém-criado.
